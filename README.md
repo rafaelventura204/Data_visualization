@@ -1,4 +1,4 @@
-# Data_visualization
+# Data visualization
 Covid patient data analysis and visualization
 
 The project consists of the development of the visualization and analysis of a dataset containing clinical information of 300 patients who have contracted COVID-19 in different forms.
